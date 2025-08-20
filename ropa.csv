@@ -1,7 +1,7 @@
 Codigo;Producto;Modelo;Opcion;PreMay;Urlimagen;Sale;Nuevo;Time;Info;Estado;
 RP0001;BODY PAU (BLANCO);BODY PAU;T0,T2;6000;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1755699055/f3ralq4suu7dxeow6wrt.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1755699055/ug6crl2aqaofezjwuqsx.png;no;si;7/8/2025;;public;
 RP0002;BODY PAU (NATURAL);BODY PAU;T0,T2;6000;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1755699068/ysuag4phkrtpohzalfyz.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1755699067/rno0xsuvpxclgqrhaic3.png;no;si;7/8/2025;;public;
-RP0003;BODY PAU (NEGRO);BODY PAU;T0,T1,T2,T3,T4,T5;6000;;no;si;7/8/2025;;public;
+RP0003;BODY PAU (NEGRO);BODY PAU;T0,T1,T2,T3,T4,T5;6000;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1755699090/wb0bxjs5g6ihxhm23vht.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1755699090/ikoqjv2dmi8njlhb9zq8.png;no;si;7/8/2025;;public;
 RP0004;BODY PAU (ROJO);BODY PAU;T0,T1,T2,T3,T4,T5;6000;;no;si;7/8/2025;;public;
 RP0005;BODY VEST CAMY (BLANCO);BODY VEST CAMY;T0,T1,T3,T4,T5;7900;;no;si;7/8/2025;;public;
 RP0006;BODY VEST CAMY (NEGRO);BODY VEST CAMY;T0,T1,T2,T3,T4,T5;7900;;no;si;7/8/2025;;public;
