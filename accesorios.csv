@@ -1,6 +1,6 @@
 Codigo;Producto;Modelo;Opcion;PreMay;Urlimagen;Sale;Nuevo;Time;Info;Estado;
 AC0001;GORRO PILUSO (A);GORRO PILUSO;T1,T2,T3,T4,T5;3500;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1758822401/kcuzehaxy5sncz12yfkk.png;no;si;25/9/2025;;public;
-AC0002;GORRO PILUSO (B);GORRO PILUSO;B;3500;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1758822409/krxi2fdiusm9jufrc9ke.png;no;si;25/9/2025;;public;
+AC0002;GORRO PILUSO (B);GORRO PILUSO;T1,T2,T3,T4,T5;3500;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1758822409/krxi2fdiusm9jufrc9ke.png;no;si;25/9/2025;;public;
 AC0003;GORRO PILUSO (C);GORRO PILUSO;C;3500;;no;si;25/9/2025;;public;
 AC0004;GORRO PILUSO (D);GORRO PILUSO;D;3500;;no;si;25/9/2025;;public;
 AC0005;GORRO PILUSO (E);GORRO PILUSO;E;3500;;no;si;25/9/2025;;public;
