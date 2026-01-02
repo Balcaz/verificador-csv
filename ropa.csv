@@ -309,7 +309,7 @@ RP0307;CHOMBA BENJA (BLANCO);CHOMBA BENJA;T1,T2,T3,T4,T5,T6,T7;7500;https://res.
 RP0308;CHOMBA BENJA (GRIS);CHOMBA BENJA;T1,T2,T3,T4,T5,T6,T7;7500;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767368981/gihoszqao8srah6gnndd.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767368876/fbstsoqjy6lumnhtxtqo.png;no;si;46024;;public;
 RP0309;CHOMBA BENJA (NEGRO);CHOMBA BENJA;T1,T2,T3,T4,T5,T6,T7;7500;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767368995/on732alymn167kxbvmvf.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767368876/fbstsoqjy6lumnhtxtqo.png;no;si;46024;;public;
 RP0310;BODY CHOMBA HORSE (GRIS);BODY CHOMBA HORSE;T1,T2,T3,T4,T5,T6;8900;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767369019/hlr7r0q8sgbyx6euvafl.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767369016/kzod9rhldvd60axz5dew.png;no;si;46024;;public;
-RP0311;BODY CHOMBA HORSE (BLANCO);BODY CHOMBA HORSE;T1,T2,T3,T4,T5,T6;8900;;no;si;46024;;paused;
+RP0311;BODY CHOMBA HORSE (BLANCO);BODY CHOMBA HORSE;T1,T2,T3,T4,T5,T6;8900;https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767369044/xngesqirqyxoe3p5owbq.png,https://res.cloudinary.com/dkfsnrkcy/image/upload/v1767369016/kzod9rhldvd60axz5dew.png;no;si;46024;;public;
 RP0312;BODY CHOMBA HORSE (MOSTAZA);BODY CHOMBA HORSE;T1,T2,T3,T4,T5,T6;8900;;no;si;46024;;paused;
 RP0313;BODY CHOMBA HORSE (NATURAL);BODY CHOMBA HORSE;T1,T2,T3,T4,T5,T6;8900;;no;si;46024;;paused;
 RP0314;BODY CHOMBA HORSE (CELESTE);BODY CHOMBA HORSE;T1,T2,T3,T4,T5,T6;8900;;no;si;46024;;paused;
